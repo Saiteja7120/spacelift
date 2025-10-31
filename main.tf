@@ -54,7 +54,7 @@ resource "aws_s3_bucket" "terraform_bucket" {
   force_destroy = true
  
   tags = {
-    Name        = "Terraforms33"
+    Name        = "teJS1381839"
     Environment = "Dev"
   }
 }    
